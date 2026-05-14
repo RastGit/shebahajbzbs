@@ -19,6 +19,8 @@ client.once("ready", () => {
       {
         name: "Rozwalanie dachów - Artolan",
         type: ActivityType.Playing,
+        largeImageKey: "projekt_bez_nazwy",
+        largeImageText: "Rozwalanie dachów - Artolan",
       },
     ],
   });
